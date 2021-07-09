@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Anger is an energy"
+title                    : "Test"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "RoxyYujinKim"
-description              : "분노는 나의 힘!"
-url                      : "https://superkingyj.github.io"
+name                     : "Test"
+description              : "Test"
+url                      : "https://superkingyj.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
